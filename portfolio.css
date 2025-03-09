@@ -221,7 +221,7 @@ font-family: Arial, Helvetica, sans-serif;
 .profile-image
 {height: 314px;
     width: 314px;
-    background-image: url("vivek.png");
+    background-image: url("profile.jpeg");
     background-size: cover;
     border-radius: 50%;
 }
