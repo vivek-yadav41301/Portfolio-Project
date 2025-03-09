@@ -186,7 +186,11 @@ font-family: Arial, Helvetica, sans-serif;
  height: 500px;
 
 }
-
+.content {
+    box-shadow: 0px 3px 5px 1px rgb(141, 141, 141);
+    border-radius: 20px;
+  }
+  
 .Profile
 { height: 314px;
     width: 314px;
@@ -225,8 +229,8 @@ font-family: Arial, Helvetica, sans-serif;
     align-items: center;
 }
 .add
-{ 
-    
+{ box-shadow: 0px 3px 5px 1px rgb(141, 141, 141);
+    border-radius: 20px;
     height: 750px;
     width:400px;
     /* border-radius:20px; */
@@ -293,7 +297,7 @@ border-top-right-radius: 20px;
 
 font-size: 25px;}
 .box{
-   box-shadow: 5px 5px 15px rgba(18, 17, 17, 0.5); 
+    box-shadow: 0px 3px 5px 1px rgb(141, 141, 141);
     height: 180px;
     width: 613px;
     border-radius: 20px;
