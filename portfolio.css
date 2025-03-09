@@ -113,7 +113,8 @@
 
 .skill1 div
 {
-border: 2px solid orange;
+border: 1px solid orangered;
+border-radius: 5px;
 
 }
 .box-skills
@@ -126,16 +127,35 @@ border: 2px solid orange;
     border: 2px solid rgb(255, 255, 255);
     background-color: white;
     border-radius: 20px;
+    box-shadow: 0px 3px 5px 1px rgb(137, 137, 137);
    
    
 }
+#skills
+{
+    width: 400px;
+}
+.language-png
+{
+height: 20px;
+width: 20px;
+background-size: cover;
 
+}
 .skill1
-{  width: 800px;
+{  width: 1200px;
     display: flex;
     justify-content: space-evenly;
    
     
+}
+.skill-logo
+{
+    display: flex;
+    align-items: center;
+   gap: 10px;
+   padding: 8px;
+   
 }
 
 .box-video
